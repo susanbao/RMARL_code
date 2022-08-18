@@ -49,11 +49,11 @@ cd ./rmarl/experiments
 python train.py --gda-step 20 --d-value 1.0  --save-dir models/ --scenario simple --exp-name simple
 
 #### MADDPG
-cd ./rmarl/experiments
+cd ./maddpg/experiments
 
 python train.py --save-dir models/ --scenario simple --exp-name simple
 
 #### M3DDPG
-cd ./rmarl/experiments
+cd ./m3ddpg/experiments
 
 python train.py --save-dir models/ --scenario simple --exp-name simple
