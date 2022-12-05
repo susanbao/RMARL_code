@@ -1,5 +1,5 @@
-# RMARL_AAAI_2023_code
-This is the code for our paper "Robust Multi-Agent Reinforcement Learning Under Adversarial State Perturbations". We implement the Robust Multi-Agent Reinforcement Learning (RMARL) algorithm in file "rmarl". The code is modified from https://github.com/openai/maddpg. Here we also include the source code of MADDPG from https://github.com/openai/maddpg and M3DDPG from https://github.com/dadadidodi/m3ddpg.
+# RMARL_code
+This is the code for our paper "What is the Solution? A Robust Agent Policy for State Adversarial Multi-Agent Reinforcement Learning". We implement the Robust Multi-Agent Reinforcement Learning (RMARL) algorithm in file "rmarl". The code is modified from https://github.com/openai/maddpg. Here we also include the source code of MADDPG from https://github.com/openai/maddpg and M3DDPG from https://github.com/dadadidodi/m3ddpg.
 
 For Multi-Agent Particle Environments (MPE) installation, we add some new scenarios to the MPE and include them here. The origin MPE code is from https://github.com/openai/multiagent-particle-envs.
 
